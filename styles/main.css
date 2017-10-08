@@ -131,3 +131,8 @@ th {
 	background-color: lightgrey;
 	text-align: center;
 }
+
+.ch_icon {
+	width: 24px;
+	height: 24px;
+}
